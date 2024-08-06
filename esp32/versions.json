@@ -1,14 +1,11 @@
 {
   "stable" : {
-    "4.3.1": "<link to file>",
-    "4.3.0": "<link to file>"
+    "4.3.0": "https://github.com/HomiesTech/homenetics-releases/raw/main/esp32/binary/binary-v4.3.0.bin",
   },
   "beta": {
-    "4.4.1": "<link to file>",
-    "4.4.0": "<link to file>"
+    
   },
   "dev": {
-    "4.5.1": "<link to file>",
-    "4.5.0": "<link to file>"
+     
   }
 }
