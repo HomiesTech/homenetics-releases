@@ -3,6 +3,10 @@
     "v4.4.1": "https://raw.githubusercontent.com/HomiesTech/homenetics-releases/main/esp32/binary/binary-v4.4.1.bin",
     "v4.3.0": "https://raw.githubusercontent.com/HomiesTech/homenetics-releases/main/esp32/binary/binary-v4.3.0.bin"
   },
-  "beta": {},
-  "dev": {}
+  "beta": {
+    "v4.4.1": "https://raw.githubusercontent.com/HomiesTech/homenetics-releases/main/esp32/binary/binary-v4.4.1.bin"
+  },
+  "dev": {
+    "v4.4.0": "https://raw.githubusercontent.com/HomiesTech/homenetics-releases/main/esp32/binary/binary-v4.4.0.bin"
+  }
 }
